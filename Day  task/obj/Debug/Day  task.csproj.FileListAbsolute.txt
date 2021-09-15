@@ -1,0 +1,7 @@
+C:\Training\Task\Day  task\Day  task\bin\Debug\Day  task.exe.config
+C:\Training\Task\Day  task\Day  task\bin\Debug\Day  task.exe
+C:\Training\Task\Day  task\Day  task\bin\Debug\Day  task.pdb
+C:\Training\Task\Day  task\Day  task\obj\Debug\Day  task.csproj.AssemblyReference.cache
+C:\Training\Task\Day  task\Day  task\obj\Debug\Day  task.csproj.CoreCompileInputs.cache
+C:\Training\Task\Day  task\Day  task\obj\Debug\Day  task.exe
+C:\Training\Task\Day  task\Day  task\obj\Debug\Day  task.pdb
